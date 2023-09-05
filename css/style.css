@@ -1,0 +1,28 @@
+body{
+    font-family: 'Playfair Display', serif;
+}
+h2 ,h1{
+    background-color:blueviolet;
+    color: aliceblue;
+    width: 50%;
+    margin: 20px auto;
+    padding: 20px ;
+}
+h1{
+    background-color: brown;
+}
+.icon{
+    margin-right: 10px;
+    background-color: blue;
+    padding: 10px;
+    border-radius: 5px;
+    font-size: 40px;
+}
+.contant{
+    background-color:blueviolet;
+    color: aliceblue;
+    width: 50%;
+    margin: 20px auto;
+    padding: 20px ;
+    font-size: 40px;
+}
